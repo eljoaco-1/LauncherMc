@@ -1,7 +1,7 @@
 {
     "maintenance": true,
     "maintenance_message": "Le server est en maintenance.<br>Merci de bien vouloir essayer ultérieurement.",
-    "online": true,
+    "online": false,
     "client_id": "",
     "game_version": "1.20.1",
     "modde": false,
