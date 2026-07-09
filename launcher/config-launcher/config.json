@@ -1,5 +1,5 @@
 {
-    "maintenance": false,
+    "maintenance": true,
     "maintenance_message": "Le server est en maintenance.<br>Merci de bien vouloir essayer ultérieurement.",
     "online": true,
     "client_id": "",
