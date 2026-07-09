@@ -1,0 +1,10 @@
+[
+    {
+        "id":"0",
+        "title":"<img style=\"width:50px;border-radius:50%;border: solid 2px white;\" src=\"assets/images/icon.png\"></img> <div class=\"Website\"><a id=\"news-link\"style=\"color:white;background-color: transparent;cursor:pointer;text-decoration: underline;\">Mise  jour du launcher</a></div>",
+        "content":"<h1>Bonjour !\n</h1>Bienvenue sur mon nouveau launcher !",
+        "author":"Fefe_du_973",
+        "link": "https://fefe-du-973.fr/",
+        "publish_date":"2022-06-27 15:20:00"
+    }
+]
