@@ -10,7 +10,7 @@
     "game_args": [],
     "dataDirectory": "eljoaco",
     "ignored": ["crash-reports", "logs", "resourcepacks", "resources", "saves", "shaderpacks", "options.txt", "optionsof.txt"],
-        "loader": {
+    "loader": {
         "type": "forge",
         "build": "47.4.10",
         "enable": true
