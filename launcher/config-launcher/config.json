@@ -3,16 +3,13 @@
     "maintenance_message": "Le server est en maintenance.<br>Merci de bien vouloir essayer ultérieurement.",
     "online": true,
     "client_id": "",
-    "game_version": "1.0",
+    "game_version": "1.20.1",
     "modde": false,
     "verify": false,
     "java": true,
     "game_args": [],
-    "dataDirectory": "minecraft",
+    "dataDirectory": "eljoaco",
     "ignored": ["crash-reports", "logs", "resourcepacks", "resources", "saves", "shaderpacks", "options.txt", "optionsof.txt"],
     "status": {
-        "nameServer": "le nom de votre server",
-        "ip": "127.0.0.1",
-        "port": 25565
     }
 }
